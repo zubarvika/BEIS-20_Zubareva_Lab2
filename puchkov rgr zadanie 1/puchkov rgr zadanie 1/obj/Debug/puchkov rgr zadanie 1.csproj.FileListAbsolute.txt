@@ -1,0 +1,23 @@
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\bin\Debug\puchkov rgr zadanie 1.exe.config
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\bin\Debug\puchkov rgr zadanie 1.exe
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\bin\Debug\puchkov rgr zadanie 1.pdb
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov_rgr_zadanie_1.Form1.resources
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov_rgr_zadanie_1.Properties.Resources.resources
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.csproj.GenerateResource.cache
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.exe
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.pdb
+C:\Users\zubar\OneDrive\Рабочий стол\c#\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.csprojAssemblyReference.cache
+E:\Алг_и_прогр_студентам_весна_2021\puchkov rgr zadanie 1\puchkov rgr zadanie 1\bin\Debug\puchkov rgr zadanie 1.exe.config
+E:\Алг_и_прогр_студентам_весна_2021\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.exe
+E:\Алг_и_прогр_студентам_весна_2021\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.pdb
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\bin\Debug\puchkov rgr zadanie 1.exe.config
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\bin\Debug\puchkov rgr zadanie 1.exe
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\bin\Debug\puchkov rgr zadanie 1.pdb
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.csprojAssemblyReference.cache
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov_rgr_zadanie_1.Form1.resources
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov_rgr_zadanie_1.Properties.Resources.resources
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.csproj.GenerateResource.cache
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.csproj.CoreCompileInputs.cache
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.exe
+E:\1-2 курсы\АиП Зубарева ПИ2-20\puchkov rgr zadanie 1\puchkov rgr zadanie 1\obj\Debug\puchkov rgr zadanie 1.pdb
